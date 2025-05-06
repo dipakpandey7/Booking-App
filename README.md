@@ -67,7 +67,7 @@ POST /api/users/register
 Content-Type: application/json
 
 {
-    "name": "John Doe",
+    "name": "Dipak",
     "email": "dipak@gmail.com",
     "phone": "9876543210",
     "password": "password123"
